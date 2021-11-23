@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+  "type": "service_account",
+  "project_id": "tccloja-ydbt",
+  "private_key_id": "ddcf4a6414c4785059d0d2add41d5e58d825af4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDKCY2nWY2zVN42\n197RvYPWfp11nB7DZfy56KmzsoJCyUBBmUed9fd1lVU06jjypF+LRD1g4cv7LLa+\nqhwfdRn8PXL8P/FSiCUrOyV6v+xpvIARdd47ikRLjFIVUVVz62R8GQ7VZnB7GGj7\nGYQuIBs/v5B7PaFXBwm5bNbWWkJ+wT9aJ/6xWM2EdtHOLPtlCnrw1gT0hKHyRF7H\nZzC3EZ7M43xCGS5AdjUIcy4OazKZQ7BdLDEXkcrA8Vl3lnmMC74hLawKqdUPK+5C\nDHlR4oQHPnu9mD5QqCHoki4hZGqDDEemKd6lINOxn4nilJ8Q+ZWq+F/KYtWcLPmc\nVEjEKI91AgMBAAECggEAB2If/hyktAgG8uQirXGKjt0jrfednDBu8vBQu1NrtTsb\nkQoj9t7VQ0PI0F065YsiPrmosJCv3qb8qq0WyAOEhpZMTHGdxRFaomDP9tNqtVaB\nK6IuE+jyo/wlx8eoIstYabyUsTHELItw0rRVA0aDGGpMwmQ3MDH+pfsXQtAbm/wt\nT4Cl00Z7xdbFI+lxJXnnN3pN1LcWrthctkykfIM16+JLxnyQelT1FNokLpf3v3kG\nEi08Vst2rOdLtNajbEBnc+xe8WWqq3A8xZpjMmXGMf3Kpc2jLpTOnw2l6q07K7pR\nzihuKuqOOAZq3AdYD8tGW8rX7WRpxSJyvXhO4q0k4QKBgQDnlP6daHduJdQ138O/\nVXlOZk2y3g3ZAebHRpWYRN/3y8DUu/rnN5cgb2llTnKgTXz4rrzh8CYPObsgCW1r\nKZYe3WGS6SBUP+gxURbWYpXpaIWy5E9S6H7Z7CUZhBzn2ZOWjFzreWnbbU0fJrtf\nkEKmTkZfzfwdE8Rsod0TcusL/QKBgQDfVxHvq2Y7GYbR8cTwf7BPxh8AbBdKSDlL\n9/ZjaZF8WHDTsUPoBWeIszPJvX8b0MVgcDFCHDfypNLAhixy31Mg4vlu/Opx1Xlf\nwDNwnOQAuXIP+TbbWaAe2TsPPDU/pZIublMrCW7OFyWJJknmV6ITRQ0Zgd6iImmi\nC1lZIH7e2QKBgQC13iEHZV9FtZeup4iG3o1hsJ4cdp7RadjfbuNUreJmLDHH38jv\nhIy/AD/5O15x3ejjM/dKSNra4i++vSidHA+1NY7HXSXyhC3JbTFONCYfI+K71ukk\n50mXwwhvvX0l540skhb3Jman2HLUoApOxnBRQu+plY8FFt0Pox6Hg5xr0QKBgQDG\nfzVSxQxERIi9uVpmwaXrENPm5SrB+3TpHwYeDuqeEGCe1TLcWUlOhq7lg4UgLKnv\n72boMfpLrtAdCmMg6XmRhglY6nJYH/oS7tkJInfGaQuGROHLjFmycTF7dfCBk99b\nYvSKEIUpqArVXXFaxtImvD1LSVCc22b0/Y84lpgL6QKBgQDSGpZjZ0KDV6CU2ouv\nwdNgnX94gD7Nbo0xTG+BwtyTHLaWAKLk9FxYnGq4f/wwx1bLlindRncBf0U4By8U\nYkT/jYqxZ63fRTL/4z/MtzRA33KIm+z8gMcWHJ9neABV4Tj/IgU3wrXTif0i0Vnk\n9oVP08IpsNrCzgS0usuUHENsQA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tccunicarioca@tccloja-ydbt.iam.gserviceaccount.com",
+  "client_id": "106099823752263355802",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tccunicarioca%40tccloja-ydbt.iam.gserviceaccount.com"
+}  
